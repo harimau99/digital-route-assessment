@@ -5,4 +5,11 @@
 ### Question 2:
 
 ### Question 3:
+Answer: 
+In this question there would be 2 approach. 
+	- Using AWS as main provider. Create a Lambda functions that use this script **[AWS to Chat communications](https://github.com/harimau99/digital-route-assessment/scripts/function.py)** 
+	- bash scripting for the generic approach. **[Simple Bash Script](https://github.com/harimau99/digital-route-assessment/scripts/bash-logmon.sh)
 
+
+Notes:
+Coming Soon
