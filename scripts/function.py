@@ -5,7 +5,8 @@ import logging
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-HOOK_URL = "" // Communication Channel Binder and place with API (MS Team, Slack, MeteorAPP, or Discord) 
+HOOK_URL = "" // Communication Channel Binder and placeholder for API (MS Team, Slack, MeteorAPP, or Discord) 
+
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
